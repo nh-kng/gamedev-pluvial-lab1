@@ -1,5 +1,5 @@
 # Clone repo
 Just clone and open with Unity
 ```
-git clone https://www.youtube.com/watch?v=VWT25gYz_ro
+git clone https://github.com/nh-kng/gamedev-pluvial-lab1.git
 ```
